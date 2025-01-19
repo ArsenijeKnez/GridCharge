@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="60" viewBox="0 0 200 60">
+  <!-- Grid Icon -->
+  <rect x="-5" y="10" width="15" height="15" fill="#bad700" />
+  <rect x="-25" y="10" width="15" height="15" fill="#bad700" />
+  <rect x="-45" y="10" width="15" height="15" fill="#bad700" />
+  <rect x="-5" y="30" width="15" height="15" fill="#bad700" />
+  <rect x="-25" y="30" width="15" height="15" fill="#bad700" />
+  <rect x="-45" y="30" width="15" height="15" fill="#bad700" />
+  <!-- Text -->
+  <text x="14" y="44" font-family="Arial, sans-serif" font-size="44" font-weight="bold" fill="#bad700">
+    GridCharge
+  </text>
+</svg>

@@ -1,0 +1,5 @@
+export { default as google } from '../../Assets/google.png'
+export { default as dropbox } from '../../Assets/dropbox.png'
+export { default as paypal } from '../../Assets/paypal.png'
+export { default as apple } from '../../Assets/apple.png'
+export { default as android } from '../../Assets/android.png'
