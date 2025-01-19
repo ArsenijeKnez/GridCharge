@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/gridcharge.github.io/static/css/main.99fd4634.css",
-    "main.js": "/gridcharge.github.io/static/js/main.d050800a.js",
-    "static/media/Road.png": "/gridcharge.github.io/static/media/Road.57f150f5c52906d13df5.png",
-    "static/media/Chargers1.jpg": "/gridcharge.github.io/static/media/Chargers1.75af58554fb37fcc9a15.jpg",
-    "static/media/charger.png": "/gridcharge.github.io/static/media/charger.b2ee8b0cd47bec8a68b9.png",
-    "static/media/young-woman-charging-electric-car2.jpg": "/gridcharge.github.io/static/media/young-woman-charging-electric-car2.331a623a455424bc9fe7.jpg",
-    "static/media/Map.png": "/gridcharge.github.io/static/media/Map.84a45ef0b61ee3f68cd4.png",
-    "static/media/Chargers2.png": "/gridcharge.github.io/static/media/Chargers2.ee7f94de6df6ed31226a.png",
-    "static/media/app.png": "/gridcharge.github.io/static/media/app.3cac031b1652c3c074ea.png",
-    "static/media/apple.png": "/gridcharge.github.io/static/media/apple.b628d590323325b90c9c.png",
-    "static/media/paypal.png": "/gridcharge.github.io/static/media/paypal.26e71dfdc0d9d57f7ede.png",
-    "static/media/email.png": "/gridcharge.github.io/static/media/email.92e7b0836c10173c53ff.png",
-    "static/media/android.png": "/gridcharge.github.io/static/media/android.92945f5c6273fc3942ab.png",
-    "static/media/logo.svg": "/gridcharge.github.io/static/media/logo.a89f6cf85e88f871dde1a453b7540033.svg",
-    "index.html": "/gridcharge.github.io/index.html",
-    "main.99fd4634.css.map": "/gridcharge.github.io/static/css/main.99fd4634.css.map",
-    "main.d050800a.js.map": "/gridcharge.github.io/static/js/main.d050800a.js.map"
+    "main.css": "/GridCharge/static/css/main.99fd4634.css",
+    "main.js": "/GridCharge/static/js/main.21780b3f.js",
+    "static/media/Road.png": "/GridCharge/static/media/Road.57f150f5c52906d13df5.png",
+    "static/media/Chargers1.jpg": "/GridCharge/static/media/Chargers1.75af58554fb37fcc9a15.jpg",
+    "static/media/charger.png": "/GridCharge/static/media/charger.b2ee8b0cd47bec8a68b9.png",
+    "static/media/young-woman-charging-electric-car2.jpg": "/GridCharge/static/media/young-woman-charging-electric-car2.331a623a455424bc9fe7.jpg",
+    "static/media/Map.png": "/GridCharge/static/media/Map.84a45ef0b61ee3f68cd4.png",
+    "static/media/Chargers2.png": "/GridCharge/static/media/Chargers2.ee7f94de6df6ed31226a.png",
+    "static/media/app.png": "/GridCharge/static/media/app.3cac031b1652c3c074ea.png",
+    "static/media/apple.png": "/GridCharge/static/media/apple.b628d590323325b90c9c.png",
+    "static/media/paypal.png": "/GridCharge/static/media/paypal.26e71dfdc0d9d57f7ede.png",
+    "static/media/email.png": "/GridCharge/static/media/email.92e7b0836c10173c53ff.png",
+    "static/media/android.png": "/GridCharge/static/media/android.92945f5c6273fc3942ab.png",
+    "static/media/logo.svg": "/GridCharge/static/media/logo.a89f6cf85e88f871dde1a453b7540033.svg",
+    "index.html": "/GridCharge/index.html",
+    "main.99fd4634.css.map": "/GridCharge/static/css/main.99fd4634.css.map",
+    "main.21780b3f.js.map": "/GridCharge/static/js/main.21780b3f.js.map"
   },
   "entrypoints": [
     "static/css/main.99fd4634.css",
-    "static/js/main.d050800a.js"
+    "static/js/main.21780b3f.js"
   ]
 }
